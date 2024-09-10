@@ -12,7 +12,7 @@ print(len(full_name))
 Answer these questions about the code snippets.  
 
 1. What specifically will the result be when you run the script shown above?  
-> Answer 
+> Taylor Swift
 
 
 2. What do you think the output (result) would be if you ran the following code snippet?
