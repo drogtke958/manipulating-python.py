@@ -11,11 +11,11 @@
 
 
 ### Assume you have the string 'programming'.  What's the index number of the letter a (if you start from the letter p)?
-- I think it will be number one.
+- I think it will be number zero.
 
 
 ### Assume you have the string 'Jack Reacher'.  Using NEGATIVE index numbers, what's the negative index number of the letter c in Reacher?
-- I think it would be number 4.
+- I think it would be number -3.
 
 
 ### How many characters total does the string 'Jack Reacher' contain?
