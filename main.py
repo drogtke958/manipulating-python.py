@@ -1,5 +1,5 @@
-# Your first and last name 
-# Add the current date
+# Keily Drogt
+# 10 Sept 2024
 # String Manipulation
 
 # Part 1
