@@ -4,9 +4,9 @@
 
 # Part 1
 # Define a variable and assign it the string that is your last name
+last_name = 'Drogt'
 # Then tell Python to print the value assigned to the variable
-
-
+print(last_name)
 
 
 
